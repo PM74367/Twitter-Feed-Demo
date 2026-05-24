@@ -1,0 +1,145 @@
+{
+  "tweets": [
+    {
+      "id": "t_016",
+      "author": {
+        "id": "u_102",
+        "handle": "@gamer_gal",
+        "displayName": "Chloe Plays",
+        "avatarUrl": "https://picsum.photos/id/669/150/150"
+      },
+      "text": "Finally beat that hidden boss on hard mode! My hands are literally shaking right now. 🎮🔥",
+      "createdAt": "2026-05-18T23:15:00Z",
+      "likeCount": 420,
+      "retweetCount": 89,
+      "mediaUrl": "https://picsum.photos/id/180/600/400"
+    },
+    {
+      "id": "t_017",
+      "author": {
+        "id": "u_44",
+        "handle": "@history_buff",
+        "displayName": "Past Forward",
+        "avatarUrl": "https://picsum.photos/id/684/150/150"
+      },
+      "text": "On this day in 1927, Charles Lindbergh completed the first solo nonstop transatlantic flight. Imagine the courage that took.",
+      "createdAt": "2026-05-18T19:40:00Z",
+      "likeCount": 156,
+      "retweetCount": 34,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_018",
+      "author": {
+        "id": "u_210",
+        "handle": "@cycle_path",
+        "displayName": "Sam | OnTwoWheels",
+        "avatarUrl": "https://picsum.photos/id/777/150/150"
+      },
+      "text": "Rainy morning commute but honestly, cycling through a quiet city has its own kind of magic.",
+      "createdAt": "2026-05-18T08:10:00Z",
+      "likeCount": 45,
+      "retweetCount": 2,
+      "mediaUrl": "https://picsum.photos/id/146/600/400"
+    },
+    {
+      "id": "t_019",
+      "author": {
+        "id": "u_05",
+        "handle": "@tech_insider",
+        "displayName": "Mark Tech",
+        "avatarUrl": "https://picsum.photos/id/177/150/150"
+      },
+      "text": "Reminder: Legacy code isn't just 'bad code'. It's code that is currently generating revenue and surviving in production. Respect it.",
+      "createdAt": "2026-05-17T16:22:00Z",
+      "likeCount": 2304,
+      "retweetCount": 741,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_020",
+      "author": {
+        "id": "u_33",
+        "handle": "@plant_mom",
+        "displayName": "Greenery Vibes",
+        "avatarUrl": "https://picsum.photos/id/824/150/150"
+      },
+      "text": "My Monstera just grew its biggest leaf yet! Look at those beautiful fenestrations.",
+      "createdAt": "2026-05-17T11:05:00Z",
+      "likeCount": 312,
+      "retweetCount": 14,
+      "mediaUrl": "https://picsum.photos/id/306/600/400"
+    },
+    {
+      "id": "t_021",
+      "author": {
+        "id": "u_115",
+        "handle": "@vinyl_collector",
+        "displayName": "Spinning Records",
+        "avatarUrl": "https://picsum.photos/id/835/150/150"
+      },
+      "text": "Found a rare original pressing of my favorite jazz album at a local flea market. Saturday achieved.",
+      "createdAt": "2026-05-16T18:50:00Z",
+      "likeCount": 98,
+      "retweetCount": 11,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_022",
+      "author": {
+        "id": "u_42",
+        "handle": "@jane",
+        "displayName": "Jane Doe",
+        "avatarUrl": "https://picsum.photos/id/64/150/150"
+      },
+      "text": "Spent the whole day refactoring architecture. Deleted 500 lines of redundant code. Best feeling ever.",
+      "createdAt": "2026-05-16T15:30:00Z",
+      "likeCount": 512,
+      "retweetCount": 64,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_023",
+      "author": {
+        "id": "u_90",
+        "handle": "@sky_watcher",
+        "displayName": "Aero Shots",
+        "avatarUrl": "https://picsum.photos/id/903/150/150"
+      },
+      "text": "Chasing storms in the midwest. This supercell was absolutely breathtaking and terrifying all at once.",
+      "createdAt": "2026-05-16T09:15:00Z",
+      "likeCount": 1102,
+      "retweetCount": 423,
+      "mediaUrl": "https://picsum.photos/id/412/600/400"
+    },
+    {
+      "id": "t_024",
+      "author": {
+        "id": "u_67",
+        "handle": "@minimal_living",
+        "displayName": "LessIsMore",
+        "avatarUrl": "https://picsum.photos/id/996/150/150"
+      },
+      "text": "Decluttering your workspace is the easiest way to declutter your mind before starting a big project.",
+      "createdAt": "2026-05-15T14:10:00Z",
+      "likeCount": 187,
+      "retweetCount": 29,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_025",
+      "author": {
+        "id": "u_88",
+        "handle": "@alex_dev",
+        "displayName": "Alex Coder",
+        "avatarUrl": "https://picsum.photos/id/91/150/150"
+      },
+      "text": "There are 10 types of people in the world: those who understand binary, and those who don't. Old but gold.",
+      "createdAt": "2026-05-15T10:00:00Z",
+      "likeCount": 643,
+      "retweetCount": 195,
+      "mediaUrl": null
+    }
+  ],
+  "nextCursor": null
+}

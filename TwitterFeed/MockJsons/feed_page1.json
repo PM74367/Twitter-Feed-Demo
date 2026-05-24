@@ -1,0 +1,215 @@
+{
+  "tweets": [
+    {
+      "id": "t_001",
+      "author": {
+        "id": "u_42",
+        "handle": "@jane",
+        "displayName": "Jane Doe",
+        "avatarUrl": "https://picsum.photos/id/64/150/150"
+      },
+      "text": "Hello world! Truly a beautiful day to write some SwiftUI code. 🚀",
+      "createdAt": "2026-05-22T10:30:00Z",
+      "likeCount": 12,
+      "retweetCount": 3,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_002",
+      "author": {
+        "id": "u_88",
+        "handle": "@alex_dev",
+        "displayName": "Alex Coder",
+        "avatarUrl": "https://picsum.photos/id/91/150/150"
+      },
+      "text": "Testing the app's offline functionality inside the subway tunnel 🚇 #iOS #Swift",
+      "createdAt": "2026-05-22T09:15:00Z",
+      "likeCount": 45,
+      "retweetCount": 18,
+      "mediaUrl": "https://picsum.photos/id/237/600/400"
+    },
+    {
+      "id": "t_003",
+      "author": {
+        "id": "u_12",
+        "handle": "@travel_bug",
+        "displayName": "Elena Travels",
+        "avatarUrl": "https://picsum.photos/id/103/150/150"
+      },
+      "text": "This morning's coffee hits different with this breathtaking view!",
+      "createdAt": "2026-05-22T08:05:00Z",
+      "likeCount": 120,
+      "retweetCount": 5,
+      "mediaUrl": "https://picsum.photos/id/43/600/400"
+    },
+    {
+      "id": "t_004",
+      "author": {
+        "id": "u_05",
+        "handle": "@tech_insider",
+        "displayName": "Mark Tech",
+        "avatarUrl": "https://picsum.photos/id/177/150/150"
+      },
+      "text": "New leaks about the upcoming Apple framework. Looks like state management is becoming even more declarative.",
+      "createdAt": "2026-05-21T22:40:00Z",
+      "likeCount": 89,
+      "retweetCount": 42,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_005",
+      "author": {
+        "id": "u_99",
+        "handle": "@chef_luke",
+        "displayName": "Luke | Foodie",
+        "avatarUrl": "https://picsum.photos/id/324/150/150"
+      },
+      "text": "Kitchen experiments tonight: blueberry risotto with a balsamic reduction glaze. Did it work out?",
+      "createdAt": "2026-05-21T20:15:00Z",
+      "likeCount": 230,
+      "retweetCount": 12,
+      "mediaUrl": "https://picsum.photos/id/225/600/400"
+    },
+    {
+      "id": "t_006",
+      "author": {
+        "id": "u_23",
+        "handle": "@design_matters",
+        "displayName": "Sarah Design",
+        "avatarUrl": "https://picsum.photos/id/338/150/150"
+      },
+      "text": "Details aren't just details. They make the design. Keep that in mind whenever you're building a UI.",
+      "createdAt": "2026-05-21T17:30:00Z",
+      "likeCount": 512,
+      "retweetCount": 189,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_007",
+      "author": {
+        "id": "u_14",
+        "handle": "@bookworm",
+        "displayName": "Matthew Books",
+        "avatarUrl": "https://picsum.photos/id/447/150/150"
+      },
+      "text": "Just finished reading that new cyberpunk novel. A bit disappointed by the ending, but the world-building was insane.",
+      "createdAt": "2026-05-21T15:10:00Z",
+      "likeCount": 34,
+      "retweetCount": 2,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_008",
+      "author": {
+        "id": "u_56",
+        "handle": "@nature_pics",
+        "displayName": "Green Shots",
+        "avatarUrl": "https://picsum.photos/id/365/150/150"
+      },
+      "text": "Getting lost in the woods over the weekend. Fresh air and absolutely zero push notifications.",
+      "createdAt": "2026-05-21T11:00:00Z",
+      "likeCount": 411,
+      "retweetCount": 56,
+      "mediaUrl": "https://picsum.photos/id/16/600/400"
+    },
+    {
+      "id": "t_009",
+      "author": {
+        "id": "u_71",
+        "handle": "@running_man",
+        "displayName": "David C.",
+        "avatarUrl": "https://picsum.photos/id/399/150/150"
+      },
+      "text": "New personal record on my 10k run! Hard work always pays off. 🏃‍♂️💨",
+      "createdAt": "2026-05-21T07:45:00Z",
+      "likeCount": 95,
+      "retweetCount": 4,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_010",
+      "author": {
+        "id": "u_101",
+        "handle": "@startup_founder",
+        "displayName": "Julia B.",
+        "avatarUrl": "https://picsum.photos/id/473/150/150"
+      },
+      "text": "The hardest part of launching a product isn't building it—it's finding the first 100 people who actually love it.",
+      "createdAt": "2026-05-20T18:22:00Z",
+      "likeCount": 1102,
+      "retweetCount": 341,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_011",
+      "author": {
+        "id": "u_15",
+        "handle": "@cat_lover",
+        "displayName": "Kittens & Co",
+        "avatarUrl": "https://picsum.photos/id/522/150/150"
+      },
+      "text": "He's watching you while you try to fix that 3-hour-old bug.",
+      "createdAt": "2026-05-20T14:55:00Z",
+      "likeCount": 1540,
+      "retweetCount": 612,
+      "mediaUrl": "https://picsum.photos/id/40/600/400"
+    },
+    {
+      "id": "t_012",
+      "author": {
+        "id": "u_38",
+        "handle": "@space_geek",
+        "displayName": "Cosmo Info",
+        "avatarUrl": "https://picsum.photos/id/556/150/150"
+      },
+      "text": "Stunning new images of the nebula captured by the latest generation space telescope.",
+      "createdAt": "2026-05-20T10:05:00Z",
+      "likeCount": 860,
+      "retweetCount": 245,
+      "mediaUrl": "https://picsum.photos/id/96/600/400"
+    },
+    {
+      "id": "t_013",
+      "author": {
+        "id": "u_88",
+        "handle": "@alex_dev",
+        "displayName": "Alex Coder",
+        "avatarUrl": "https://picsum.photos/id/91/150/150"
+      },
+      "text": "Pretending to look intensely focused in front of my manager while the project is compiling. Works every time.",
+      "createdAt": "2026-05-20T09:12:00Z",
+      "likeCount": 320,
+      "retweetCount": 78,
+      "mediaUrl": null
+    },
+    {
+      "id": "t_014",
+      "author": {
+        "id": "u_09",
+        "handle": "@urban_explorer",
+        "displayName": "Invisible Cities",
+        "avatarUrl": "https://picsum.photos/id/619/150/150"
+      },
+      "text": "Urban geometries in the heart of the financial district at dawn. Surreally quiet.",
+      "createdAt": "2026-05-19T21:40:00Z",
+      "likeCount": 185,
+      "retweetCount": 22,
+      "mediaUrl": "https://picsum.photos/id/57/600/400"
+    },
+    {
+      "id": "t_015",
+      "author": {
+        "id": "u_55",
+        "handle": "@coffee_addict",
+        "displayName": "Barista Pro",
+        "avatarUrl": "https://picsum.photos/id/611/150/150"
+      },
+      "text": "Dialing in the grinder in the morning is an exact science. Have a great day everyone!",
+      "createdAt": "2026-05-19T06:30:00Z",
+      "likeCount": 74,
+      "retweetCount": 5,
+      "mediaUrl": null
+    }
+  ],
+  "nextCursor": "page_2_cursor_9912"
+}
